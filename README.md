@@ -48,7 +48,7 @@ El sistema provee un panel de administración que permite:
 - Javalin
 - Handlebars (cliente liviano)
 - Hibernate + JPA
-- MySQL
+- PostgreSQL
 - Docker
 - Maven
 - Render
